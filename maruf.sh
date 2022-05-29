@@ -1,7 +1,7 @@
 apt install git -y
 git clone -b dev https://github.com/TeamUltroid/Ultroid
 cd Ultroid
-wget -O .env https://gist.githubusercontent.com/rooted-cyber/664ab4a54d07c17be7300d87c54c4e33/raw/dce4e8f4ec4867fa590735a668bbf8a7489cc2da/env%2520ter
+wget -O .env https://gist.githubusercontent.com/rooted-cyber/2f7ae3d3307a3376b204d4437edba2b2/raw/2141637e3538f102ca0469f3f7d4ce7172c99d58/term%2520env
 pip install --upgrade pip
 pip3 install -r req*
 pip3 install -r res*/st*/opt*
